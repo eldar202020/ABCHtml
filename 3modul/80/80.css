@@ -1,0 +1,20 @@
+/* №1 */
+[title]{}
+
+/* №2  */ 
+p[title]{}
+
+/* №3   */
+p[title="hello"]{}
+
+/* №4   */
+a[href^="http://"]{}
+
+/* №5  */ 
+a[href$=".html"]{}
+
+/* №6  */ 
+p[title~="hello"]{}
+
+/* №7  */ 
+p[class^="top-"]{}
